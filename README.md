@@ -21,3 +21,28 @@
  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
+  </a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45141633?s=200&v=4" alt="MLFlow" width="40" height="40"/>
+  </a>
+  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.brandfetch.io/id0ycwXVhg/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="DagsHub" width="40" height="40"/>
+  </a>
+  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.brandfetch.io/id16tXJ5GC/w/250/h/250/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="DVC" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
