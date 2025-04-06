@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Anupam</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst / DataScientist / ML Engineer / AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnupamKNN&label=Profile%20views&color=blue&style=plactic" alt="anupam-knn" /></p>
 
