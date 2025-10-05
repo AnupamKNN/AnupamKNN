@@ -21,6 +21,9 @@
   <a href="https://powerbi.microsoft.com/en-au/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="PowerBi" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNjSJcG5KsqRqavcwRQJ9iYO1511ugRc7Og&sg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhYIgLQICyLdxxt1uEcA4mTUM8-kNrMMMQA&s" alt="PostgreSQL" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- 🐍 Python & Libraries -->
